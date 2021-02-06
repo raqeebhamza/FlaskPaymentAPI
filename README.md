@@ -1,9 +1,14 @@
 # Run command
-client side.............
-.....//$ python3 client.py
-Server side............
-....//$ export FLASK_APP=Server
-....//$ flask run
+## client side.....
+
+      $python3 client.py
+
+
+## Server side.......
+
+     $ export FLASK_APP=Server
+
+     $ flask run
 
 
 
