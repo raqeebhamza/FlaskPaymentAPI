@@ -1,5 +1,5 @@
 # Run command
-client side.............\n
+client side.............
 .....//$ python3 client.py
 Server side............
 ....//$ export FLASK_APP=Server
