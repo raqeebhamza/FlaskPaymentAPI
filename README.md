@@ -1,3 +1,13 @@
+# Run command
+client side.............
+.....//$ python3 client.py
+Server side............
+....//$ export FLASK_APP=Server
+....//$ flask run
+
+
+
+
 # FlaskPaymentAPI
 
 A Flask Web API with only 1 method called “ProcessPayment” that receives a request
